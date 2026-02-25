@@ -1,15 +1,15 @@
-# Travel Agency Page
+# XYZ Travels
 
 This project was originally created as part of FreeCodeCamp’s Responsive Web Design certification.  
-I have polished and customized it further to improve design, content, and overall presentation.
+I have polished and customized the text content, headings, and paragraphs to make it more realistic and engaging.  
+The layout, links, and images remain the same as the original guided project.
 
 ## Features
 - Simple HTML structure
-- Sections for destinations, packages, and contact info
-- Polished layout with improved headings and realistic content
+- Packages section with destinations and dummy offers
+- About section describing the agency
+- Contact information (dummy data)
 
 ## Purpose
-This project demonstrates my learning journey in HTML and showcases how I can take a guided project and enhance it with my own creativity.
-
-## How to View
-Open `index.html` in any browser to explore the page.
+This project demonstrates my learning journey in HTML.  
+It shows how I can take a guided project and enhance it with my own words and creativity.
