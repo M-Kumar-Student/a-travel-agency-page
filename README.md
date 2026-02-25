@@ -7,8 +7,6 @@ The layout, links, and images remain the same as the original guided project.
 ## Features
 - Simple HTML structure
 - Packages section with destinations and dummy offers
-- About section describing the agency
-- Contact information (dummy data)
 
 ## Purpose
 This project demonstrates my learning journey in HTML.  
