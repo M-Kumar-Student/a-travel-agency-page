@@ -11,3 +11,8 @@ The layout, links, and images remain the same as the original guided project.
 ## Purpose
 This project demonstrates my learning journey in HTML.  
 It shows how I can take a guided project and enhance it with my own words and creativity.
+
+## How to Run
+1. Clone this repository:
+   ```bash
+   git clone https://github.com/MukundKumarDev/a-travel-agency-page.git
